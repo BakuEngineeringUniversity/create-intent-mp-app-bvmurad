@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">myProflie</string>
+    <string name="profile_image" />
+    <string name="murad_babayev">Murad Babayev</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="location">Location</string>
+    <string name="play_music">Play Music</string>
+</resources>
